@@ -1,0 +1,8 @@
+streamlit
+rdkit
+pandas
+numpy
+joblib
+xgboost
+matplotlib
+Pillow
